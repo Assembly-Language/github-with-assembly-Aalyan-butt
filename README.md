@@ -6,7 +6,7 @@ after each program commit with proper comment and push
 give the proper remarks here in readme
 
 
-reg #   ------------  Name --------
+reg #  1121 Name: Aalyan Riasat
 
 
 
